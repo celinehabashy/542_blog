@@ -40,6 +40,9 @@ One of the most rewarding aspects of learning data science has been applying it 
 Another project involved creating data visualizations for surgical outcomes. Using tools like Altair and Tableau, I developed dashboards that displayed key metrics such as recovery times and complication rates. These visualizations made it easier for healthcare teams to identify trends and prioritize improvements.
 Through these experiences, I’ve learned that data science isn’t just about algorithms or code—it’s about asking the right questions and communicating findings in a way that drives action. The ability to turn raw data into insights that improve decision-making is what makes this field so impactful.
 
+# Advice for Aspiring Data Scientists
+
+![](images/image6.png)
 
 # Looking Ahead
 
@@ -47,7 +50,3 @@ When I look back, I’m genuinely amazed by how much I’ve learned and how far 
 But this is just the beginning. My goal is to keep exploring the intersection of data science and healthcare, working on projects that make a real difference in people’s lives. Whether it’s finding ways to predict patient outcomes or building tools that help clinicians make better decisions, I’m excited about the possibilities.
 
 If you’re thinking about diving into data science, my advice is simple: just start. Learn a programming language, explore a dataset, or tackle a small project. The journey can feel overwhelming at first, but every step forward is worth it. I’d love to hear about your experiences—how do you see data shaping the future of your industry? Let’s connect and share ideas.
-
-# Advice for Aspiring Data Scientists
-
-![](images/image6.png)
