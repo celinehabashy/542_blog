@@ -50,4 +50,4 @@ If you’re thinking about diving into data science, my advice is simple: just s
 
 # Advice for Aspiring Data Scientists
 
-![](images/image5.png)
+![](images/image6.png)
